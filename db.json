@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "date": "1st Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
+    },
+    {
+      "id": "2",
+      "source": "Bangalore",
+      "destination": "Pune",
+      "date": "2nd Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
+    },
+    {
+      "id": "3",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "date": "1st Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
+    },
+    {
+      "id": "4",
+      "source": "Pune",
+      "destination": "Kolkata",
+      "date": "3rd Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
+    },
+    {
+      "id": "5",
+      "source": "Bangalore",
+      "destination": "Pune",
+      "date": "4th Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
+    },
+    {
+      "id": "6",
+      "source": "Kolkata",
+      "destination": "Hyderabad",
+      "date": "3rd Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
+    },
+    {
+      "id": "7",
+      "source": "Hyderabad",
+      "destination": "Bangalore",
+      "date": " 2nd Aug",
+      "imgURL": "https://demonuts.com/Demonuts/SampleImages/bou.png"
+    },
+    {
+      "id": "8",
+      "source": "Kolkata",
+      "destination": "Delhi",
+      "date": "1st Aug",
+      "imgURL": "https://demonuts.com/Demonuts/SampleImages/iva.jpg"
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
