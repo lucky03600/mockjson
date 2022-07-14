@@ -140,62 +140,6 @@
       "destination": "Delhi",
       "date": "5th Aug",
       "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "AW905",
-      "source": "Chennai",
-      "destination": "Delhi",
-      "date": "5th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "SW909",
-      "source": "Ranchi",
-      "destination": "Delhi",
-      "date": "1st Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "SW365",
-      "source": "Chennai",
-      "destination": "Ranchi",
-      "date": "1st Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "DH900",
-      "source": "Chennai",
-      "destination": "Mumbai",
-      "date": "7th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "UH900",
-      "source": "Chennai",
-      "destination": "Delhi",
-      "date": "7th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "WW700",
-      "source": "Chennai",
-      "destination": "Raipur",
-      "date": "4th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "DD600",
-      "source": "Raipur",
-      "destination": "Delhi",
-      "date": "1st Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "SS600",
-      "source": "Raipur",
-      "destination": "Chennai",
-      "date": "2nd Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     }
       
   ],
