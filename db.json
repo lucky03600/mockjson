@@ -105,41 +105,6 @@
       "destination": "Delhi",
       "date": "1st Aug",
       "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "DW901",
-      "source": "Chennai",
-      "destination": "Kolkata",
-      "date": "1st Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "DW902",
-      "source": "Chennai",
-      "destination": "Kolkata",
-      "date": "4th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "DW903",
-      "source": "Chennai",
-      "destination": "Jaipur",
-      "date": "1st Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "DW908",
-      "source": "Mumbai",
-      "destination": "Chennai",
-      "date": "2nd Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "DW904",
-      "source": "Chennai",
-      "destination": "Delhi",
-      "date": "5th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     }
       
   ],
