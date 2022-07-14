@@ -196,43 +196,8 @@
       "destination": "Chennai",
       "date": "2nd Aug",
       "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "PD600",
-      "source": "Ranchi",
-      "destination": "Delhi",
-      "date": "4th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "PB600",
-      "source": "Ranchi",
-      "destination": "Delhi",
-      "date": "4th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "QQ600",
-      "source": "Raipur",
-      "destination": "Mumbai",
-      "date": "6th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "VV600",
-      "source": "Ranchi",
-      "destination": "Kolkata",
-      "date": "7th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
-    },
-    {
-      "id": "VV500",
-      "source": "Ranchi",
-      "destination": "Kolkata",
-      "date": "7th Aug",
-      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     }
-    
+      
   ],
   "profile": {
     "name": "Profile 1"
